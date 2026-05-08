@@ -1,0 +1,1000 @@
+Apple Inc.
+Microsoft Corporation
+Nvidia Corporation
+Broadcom Inc.
+Taiwan Semiconductor Manufacturing Company Limited
+Samsung Electronics Co., Ltd.
+ASML Holding N.V.
+Oracle Corporation
+Adobe Inc.
+salesforce.com, inc.
+Advanced Micro Devices, Inc.
+Accenture plc
+Cisco Systems, Inc.
+Intel Corporation
+SAP SE
+Intuit Inc.
+Qualcomm Incorporated
+Texas Instruments Incorporated
+International Business Machines Corporation
+ServiceNow, Inc.
+Applied Materials, Inc.
+Uber Technologies, Inc.
+Sony Group Corporation
+SinoCloud Group Ltd
+Keyence Corp
+Lam Research Corporation
+Analog Devices, Inc.
+Shopify Inc.
+Micron Technology, Inc.
+Palo Alto Networks, Inc.
+Tokyo Electron Ltd
+Fiserv, Inc.
+SK hynix, Inc.
+KLA Corporation
+Infosys Limited
+Synopsys, Inc.
+Arista Networks, Inc.
+Workday, Inc.
+Cadence Design Systems, Inc.
+Dassault Systèmes SE
+VMware, Inc.
+Snowflake Inc.
+CrowdStrike Holdings, Inc.
+Amphenol Corporation
+Atlassian Corporation Plc
+NXP Semiconductors N.V.
+Dell Technologies Inc.
+Constellation Software Inc.
+Motorola Solutions, Inc.
+Marvell Technology Group Ltd.
+Infineon Technologies AG
+Marvell Technology, Inc.
+MediaTek, Inc.
+Autodesk, Inc.
+Xiaomi Corp
+Hon Hai Precision Industry Co. Ltd
+Microchip Technology Incorporated
+Fortinet, Inc.
+TE Connectivity Ltd.
+Block, Inc.
+STMicroelectronics N.V.
+Murata Manufacturing Co. Ltd
+Adyen N.V.
+Foxconn Industrial Internet Co. Ltd
+Coinbase Global, Inc.
+Cognizant Technology Solutions Corporation
+Datadog, Inc.
+Fidelity National Information Services, Inc.
+Palantir Technologies Inc.
+Capgemini SE
+ON Semiconductor Corporation
+The Trade Desk, Inc.
+Gartner, Inc.
+Hexagon AB
+GlobalFoundries Inc.
+Zscaler, Inc.
+Amadeus IT Group, SA
+Renesas Electronics Corp
+ANSYS, Inc.
+HP Inc.
+Semiconductor Manufacturing International Corp
+CDW Corporation
+Wipro Limited
+Fair Isaac Corporation
+Fujitsu Ltd
+Monolithic Power Systems, Inc.
+Quanta Computer, Inc.
+MongoDB, Inc.
+HubSpot, Inc.
+Keysight Technologies, Inc.
+Canon Inc.
+Corning Incorporated
+Delta Electronics, Inc.
+Cloudflare, Inc.
+Splunk Inc.
+Advantest Corp
+ASM International NV
+Fortive Corporation
+CGI Inc.
+Garmin Ltd.
+Panasonic Corp
+LONGi Green Energy Technology Co. Ltd
+Broadridge Financial Solutions, Inc.
+Lasertec Corp
+Hewlett Packard Enterprise Company
+Telefonaktiebolaget LM Ericsson
+Kyocera Corp
+United Microelectronics Corporation
+Teledyne Technologies Incorporated
+VeriSign, Inc.
+FLEETCOR Technologies, Inc.
+PTC Inc.
+NTT Data Corp
+Nokia Corporation
+Kaspi Bank Joint Stock Company
+TDK Corp
+First Solar, Inc.
+Check Point Software Technologies Ltd.
+NetApp, Inc.
+ASE Technology Holding Co., Ltd.
+Akamai Technologies, Inc.
+Beijing Kingsoft Office Software, Inc.
+Nomura Research Institute Ltd
+Tyler Technologies, Inc.
+Nuance Communications, Inc.
+Will Semiconductor Co. Ltd
+Seagate Technology plc
+Skyworks Solutions, Inc.
+WiseTech Global Limited
+EPAM Systems, Inc.
+Enphase Energy, Inc.
+Entegris, Inc.
+Jabil Inc.
+Western Digital Corporation
+Super Micro Computer, Inc.
+Lenovo Group Ltd
+NEC Corp
+Teradyne, Inc.
+ZTE Corp
+Shenzhen Transsion Holdings Co. Ltd
+The Sage Group plc
+Dynatrace, Inc.
+OBIC Co.,Ltd.
+Leidos Holdings, Inc.
+SS&C Technologies Holdings, Inc.
+Logitech International SA
+GoDaddy Inc.
+NortonLifeLock Inc.
+Unity Software Inc.
+Bentley Systems, Incorporated
+Okta, Inc.
+NICE Ltd.
+Aspen Technology, Inc.
+Affirm Holdings, Inc.
+Shanghai Baosight Software Co.,Ltd.
+Zebra Technologies Corporation
+Citrix Systems, Inc.
+AppLovin Corp
+LG Electronics, Inc.
+UiPath, Inc.
+Trimble Inc.
+Advanced Micro-Fabrication Equipment, Inc. China
+Manhattan Associates, Inc.
+Jack Henry & Associates, Inc.
+Pure Storage, Inc.
+BE Semiconductor Industries N.V.
+Hithink RoyalFlush Information Network Co. Ltd
+LARGAN Precision Co.,Ltd
+Paycom Software, Inc.
+ZoomInfo Technologies Inc.
+ASUSTeK Computer, Inc.
+DocuSign, Inc.
+Xero Limited
+Nutanix, Inc.
+Open Text Corporation
+Nexi S.p.A.
+MicroStrategy Incorporated
+Elastic N.V.
+BYD Electronic International Co Ltd
+F5 Networks, Inc.
+Flex Ltd.
+Qorvo, Inc.
+Amdocs Limited
+Proofpoint, Inc.
+Computershare Limited
+Advantech Co. Ltd
+Oracle Corp Japan
+Ceridian HCM Holding Inc.
+Wiwynn Corp
+Novatek Microelectronics Corp
+Dropbox, Inc.
+Maxscend Microelectronics Company Ltd
+Black Knight, Inc.
+Anaplan, Inc.
+Juniper Networks, Inc.
+Sanan Optoelectronics Co. Ltd
+TD Synnex
+Globant SA
+Zendesk, Inc.
+Nemetschek SE
+Procore Technologies, Inc.
+OMRON Corp
+Cree, Inc.
+Montage Technology Co. Ltd
+Lattice Semiconductor Corporation
+Sunny Optical Technology Group Co Ltd
+Paylocity Holding Corporation
+Lens Technology Co. Ltd
+Accton Technology Corp
+CyberArk Software Ltd.
+Wistron Corp
+Avast plc
+Lite-On Technology Corp
+Guidewire Software, Inc.
+Universal Display Corporation
+360 Security Technology, Inc.
+Trina Solar Co. Ltd
+WEX Inc.
+Minebea Mitsumi, Inc.
+Unimicron Technology Corp
+Shimadzu Corp
+GlobalWafers Co. Ltd
+monday.com Ltd
+Switch, Inc.
+Alchip Technologies Ltd
+Yonyou Network Technology Co. Ltd
+SCREEN Holdings Co. Ltd
+China Resources Microelectronics Ltd
+Avalara, Inc.
+Dolby Laboratories, Inc.
+GigaDevice Semiconductor
+Bill.com Holdings, Inc.
+Ubiquiti Inc.
+Dawning Information Industry Co. Ltd
+Ibiden Co.,Ltd.
+Zhejiang Jingsheng Mechanical & Electrical Co. Ltd
+Otsuka Corp
+Chaozhou Three-Circle
+National Instruments Corporation
+Nanya Technology Corp
+Amkor Technology, Inc.
+Realtek Semiconductor Corp
+Pegatron Corp
+Cambricon Technologies Corp Ltd
+Global Unichip Corp
+Trend Micro Inc.
+Hundsun Technologies, Inc.
+ROHM Co. Ltd
+E Ink Holdings, Inc.
+Wingtech Technology Co.,Ltd
+CACI International Inc
+JCET Group Co. Ltd
+Descartes Systems Group Inc.
+The Descartes Systems Group, Inc.
+Rambus Inc.
+Qualys, Inc.
+Onto Innovation Inc.
+National Silicon Industry Group Co. Ltd
+Cognex Corporation
+Wix.com Ltd.
+Fabrinet
+SPS Commerce, Inc.
+Ciena Corporation
+MKS Instruments, Inc.
+Concentrix Corporation
+Temenos AG
+Science Applications International Corporation
+Mohawk Group Holdings, Inc.
+CDK Global, Inc.
+Arrow Electronics, Inc.
+SCSK Corp
+Littelfuse, Inc.
+Hamamatsu Photonics K.K.
+Altair Engineering Inc.
+Coherent, Inc.
+SailPoint Technologies Holdings, Inc.
+Genpact Limited
+New Relic, Inc.
+MACOM Technology Solutions Holdings, Inc.
+Hangzhou First Applied Material Co. Ltd
+Stamps.com Inc.
+Smartsheet Inc.
+Bechtle AG
+Coupa Software Incorporated
+Inventec Corp
+AppFolio, Inc.
+DoubleVerify Holdings, Inc.
+Topicus.com, Inc.
+Soitec SA
+Qualtrics International Inc.
+Shift4 Payments, Inc.
+Insight Enterprises, Inc.
+eMemory Technology, Inc.
+Datto Holding Corp.
+Hua Hong Semiconductor Ltd
+ITOCHU Techno-Solutions Corp
+Shengyi Technology Co. Ltd
+Allegro MicroSystems, Inc.
+Novanta Inc.
+KnowBe4, Inc.
+GT Advanced Technologies, Inc.
+Silergy Corp
+Sensata Technologies Holding plc
+SG Micro Corp
+II-VI Incorporated
+Five9, Inc.
+Medallia, Inc.
+StoneCo Ltd.
+BayCurrent Consulting, Inc.
+TIS, Inc.
+Shinko Electric Industries Co. Ltd
+Compal Electronics, Inc.
+Lyft, Inc.
+Vontier Corporation
+Hangzhou Silan Microelectronics Co. Ltd
+GMO Payment Gateway, Inc.
+Alten SA
+Micro-Star International Co. Ltd
+Sumco Corp
+Giga-Byte Technology Co. Ltd
+Dun & Bradstreet Holdings, Inc.
+Shanghai Friendess Electronic Technology Corp Ltd
+Tenable Holdings, Inc.
+Seiko Epson Corp
+Nan Ya Printed Circuit Board Corp
+Workiva Inc.
+Yealink Network Technology Co. Ltd
+CMC Materials, Inc.
+ExlService Holdings, Inc.
+AU Optronics Corp
+SolarEdge Technologies, Inc.
+KPIT Technologies Ltd
+Thunder Software Technology Co.,Ltd.
+Spectris plc
+McAfee Corp.
+TravelSky Technology Ltd
+IPG Photonics Corporation
+Kingdee International Software Group Co Ltd
+Sharp Corp
+Reply S.p.A.
+Worldline SA
+Brooks Automation, Inc.
+Suzhou Maxwell Technologies Co. Ltd
+Suzhou TFC Optical Communication Co. Ltd
+Innolux Corp
+Acer, Inc.
+NEXTDC Limited
+Xinyi Solar Holdings Ltd
+Anker Innovations Ltd
+Varonis Systems, Inc.
+Changsha Jingjia Microelectronics Co. Ltd
+Eoptolink Technology, Inc. Ltd
+Euronet Worldwide, Inc.
+Universal Scientific Industrial
+Powerchip Semiconductor Manufacturing Corp
+Power Integrations, Inc.
+WPG Holdings Ltd
+Blackbaud, Inc.
+DXC Technology Company
+Sopra Steria Group SA
+Endava plc
+Avnet, Inc.
+AIXTRON SE
+Chicony Electronics Co. Ltd
+Shanghai Aiko Solar Energy Co. Ltd
+StarPower Semiconductor Ltd
+Synaptics Incorporated
+Ingenic Semiconductor Co.,Ltd.
+SHIFT, Inc.
+Vanguard International Semiconductor Corp
+Cirrus Logic, Inc.
+China National Software & Service Company Ltd
+SimCorp A-S
+Teradata Corporation
+Shenzhen Goodix Technology Co. Ltd
+FireEye, Inc.
+ASMedia Technology, Inc.
+Asia Vital Components Co. Ltd
+Elite Material Co. Ltd
+Computacenter plc
+Sunrun Inc.
+PagSeguro Digital Ltd.
+Sangfor Technologies, Inc.
+TOTVS SA
+Hisense Visual Technology Co. Ltd
+Vertex, Inc.
+Axcelis Technologies, Inc.
+Altium Limited
+Hengtong Optic-Electric Co. Ltd
+ManTech International Corporation
+Winbond Electronics Corp
+Hirose Electric Co.,Ltd.
+Hyundai Autoever Corp
+ASPEED Technology, Inc.
+GCL-Poly Energy Holdings Ltd
+Silicon Laboratories Inc.
+Maxar Technologies Inc.
+Asana, Inc.
+Pegasystems Inc.
+Cornerstone OnDemand, Inc.
+nCino, Inc.
+Melexis NV
+ASM Pacific Technology Ltd
+LG Display Co. Ltd
+Sino-American Silicon Products, Inc.
+NCR Corporation
+ALSO Holding AG
+Box, Inc.
+VisEra Technologies Company Ltd
+Lotes Co. Ltd
+Qi An Xin Technology Group, Inc.
+Zhonghang Electronic Measuring Instruments Co. Ltd
+WT Microelectronics Co. Ltd
+Tower Semiconductor Ltd.
+Softcat plc
+Fuzhou Rockchip Electronics Co.,Ltd.
+EchoStar Corporation
+BlackLine, Inc.
+Alteryx, Inc.
+Amlogic
+Zhen Ding Technology Holding Ltd
+INFICON Holding AG
+OBIC Business Consultants Co. Ltd
+Lumentum Holdings Inc.
+Nuvei Corporation
+Diodes Incorporated
+Viasat, Inc.
+Mercell Holding ASA
+Celestica Inc.
+Caihong Display Devices Co.,Ltd.
+Beijing Compass Technology Development Co. Ltd
+Rinnai Corp
+TianJin 712 Communication & Broadcasting Co. Ltd
+Renishaw plc
+King Yuan Electronics Co. Ltd
+JFrog Ltd.
+Tsinghua Tongfang Co. Ltd
+Technology One Limited
+Riot Blockchain, Inc.
+Gold Circuit Electronics Ltd
+Taiyo Yuden Co. Ltd
+AAC Technologies Holdings, Inc.
+Sichuan Changhong Electric Co.,Ltd.
+Sprinklr, Inc.
+Powertech Technology, Inc.
+Commvault Systems, Inc.
+Tripod Technology Corp
+Itron, Inc.
+Jentech Precision Industrial Co. Ltd
+Faraday Technology Corp
+Phison Electronics Corp
+Hangzhou Changchuan Technology Co.,Ltd
+Vishay Intertechnology, Inc.
+C3.ai, Inc.
+ACI Worldwide, Inc.
+VeriSilicon Microelectronics
+Rapid7, Inc.
+Rakus Co. Ltd
+HORIBA Ltd
+Sprout Social, Inc.
+Nihon Unisys Ltd
+Chindata Group Holdings Limited
+Shanghai Fudan Microelectronics Group Company Ltd
+Alarm.com Holdings, Inc.
+Camtek Ltd.
+Venture Corp Ltd
+DigitalOcean Holdings, Inc.
+Qisda Corp
+Wuhan Jingce Electronic Group Co. Ltd
+Ziff Davis, Inc.
+Darktrace plc
+NS Solutions Corp
+J2 Global, Inc.
+Siltronic AG
+SoftwareONE Holding AG
+Jiangsu Goodwe Power Supply Technology Co.,Ltd.
+EVO Payments, Inc.
+Beijing E-Hualu Information Technology Co. Ltd
+Chroma ATE, Inc.
+Kinaxis Inc.
+Software AG
+Shenzhen Sunway Communication Co. Ltd
+FormFactor, Inc.
+RingCentral, Inc.
+Guangdong Hec Technologyholding Co. Ltd
+Fangda Carbon New Material Technology Co. Ltd
+Kulicke and Soffa Industries, Inc.
+Plexus Corp.
+Carel Industries S.p.A.
+Jiangsu Hoperun Software Co. Ltd
+Calix, Inc.
+Lightspeed POS Inc.
+Sanmina Corporation
+AP Memory Technology Corp
+Dometic Group AB
+Parade Technologies Ltd
+Mycronic AB
+Vocera Communications, Inc.
+Lagercrantz Group AB
+TietoEVRY Oyj
+Cielo SA
+CECEP Environmental Protection Equipment Co. Ltd
+Wangsu Science & Technology Co.,Ltd.
+Indra Sistemas, SA
+Compeq Manufacturing Co. Ltd
+Fuji Soft, Inc.
+ESCO Technologies Inc.
+Yangzhou Yangjie Electronic Technology Co. Ltd
+Xiamen Faratronic Co. Ltd
+Flywire Corp
+Network International Holdings plc
+Information Services International-Dentsu Ltd
+Envestnet, Inc.
+Arçelik Anonim Sirketi
+RIB Software SE
+Aisino Corp
+Bumble, Inc.
+Risen Energy Co.,Ltd.
+SiTime Corporation
+Fiberhome Telecommunication Technologies Co. Ltd
+VIA Technologies, Inc.
+TeamViewer AG
+Bottomline Technologies, Inc.
+EVERTEC, Inc.
+Raytron Technology Co.,Ltd.
+Razer, Inc.
+Tokyo Ohka Kogyo Co. Ltd
+Ningbo Ronbay New Energy Technology Co. Ltd
+China Marine Information Electronics Company Ltd
+Shenzhen Kinwong Electronic Co. Ltd
+Shoals Technologies Group, Inc.
+Hangzhou Lion Electronics Co.,Ltd
+3Peak, Inc.
+Ping Identity Holding Corp.
+Appian Corporation
+Maruwa Co., Ltd.
+NEC Networks & System Integration Corp
+Beijing Ultrapower Software Co. Ltd
+Foxconn Technology Co. Ltd
+Rogers Corporation
+Beijing United Information Technology Co.,Ltd.
+Beijing Sinnet Technology Co. Ltd
+Q2 Holdings, Inc.
+Sinosoft Co.,Ltd
+Tokyo Seimitsu Co. Ltd
+Cowell e Holdings, Inc.
+SES-imagotag SA
+Comet Holding AG
+HMS Networks AB
+Voyager Digital Canada Ltd
+TELUS International (Cda) Inc.
+Kingboard Laminates Holdings Ltd
+Electric Connector Technology Co. Ltd
+Navtech, Inc.
+Wistron NeWeb Corp
+Progress Software Corporation
+ULVAC, Inc.
+LiveRamp Holdings, Inc.
+DBG Technology Co. Ltd
+Eutelsat Communications SA
+Longshine Technology Group Co.,Ltd.
+Ambarella, Inc.
+Alkami Technology, Inc.
+SINBON Electronics Co. Ltd
+Extreme Networks, Inc.
+InfoVision Optoelectronics
+Jamf Holding Corp.
+Shanghai Huace Navigation Technology Ltd
+Impinj, Inc.
+Silicon Motion Technology Corporation
+Talend SA
+Viavi Solutions Inc.
+Micro Focus International plc
+JEOL Ltd
+Perficient, Inc.
+SMA Solar Technology AG
+Sykes Enterprises, Incorporated
+Legend Holdings Corp
+Fastly, Inc.
+Radiant Opto-Electronics Corp
+ArcSoft Corp Ltd
+ACV Auctions, Inc.
+OSI Systems, Inc.
+Chinasoft International Ltd
+Nordic Semiconductor ASA
+Paymentus Holdings, Inc.
+Hunan Goke Microelectronics Co.,Ltd.
+Formosa Sumco Technology Corp
+WIN Semiconductors Corp
+Getac Technology Corp
+Victory Giant Technology
+Xerox Holdings Corporation
+Shanghai East-China Computer Co.,Ltd.
+ePlus inc.
+Anji Microelectronics Technology
+Xerox Holdings Corp
+SeSa S.p.A.
+Japan Aviation Electronics Industry Ltd
+Casio Computer Co.,Ltd.
+Leyard Optoelectronic Co. Ltd
+Sonos, Inc.
+Willfar Information Technology Co. Ltd
+Beijing Huafeng Test & Control Technology Co. Ltd
+Nippon Electric Glass Co., Ltd.
+Shenzhen Everwin Precision Technology Co. Ltd
+NPG Technology SA
+Jiangsu Nata Opto-electronic Material Co. Ltd
+Wuxi Taiji Industry Company Ltd
+Agilysys, Inc.
+Jiangxi Lianchuang Opto-Electronic Science&Technology Co.,Ltd
+Konfoong Materials International Co. Ltd
+PagerDuty, Inc.
+Suzhou HYC Technology Co.,Ltd.
+BlackBerry Limited
+SolarWinds Corporation
+Solus Advanced Materials Co. Ltd
+Nuvoton Technology Corp
+QT Group Oyj
+Yangtze Optical Fibre And Cable Joint Stock Ltd Company
+CleanSpark, Inc.
+China Wafer Level CSP Co. Ltd
+Fibocom Wireless, Inc.
+Xinte Energy Co. Ltd
+Daqo New Energy Corp.
+Macronix International Co. Ltd
+GreenSky, Inc.
+Walsin Technology Corp
+Alps Alpine Co Ltd
+Allwinnertech Technology Co.,Ltd.
+Mitsui High-tec, Inc.
+Beijing Jetsen Technology Co. Ltd
+Chipbond Technology Corp
+Photronics, Inc.
+SEMrush Holdings, Inc.
+Kainos Group plc
+Com7 Public Company Ltd
+Sunnova Energy International Inc.
+iFAST Corp Ltd
+Bytes Technology Group plc
+Quectel Wireless Solutions Co. Ltd
+Vicor Corporation
+KCE Electronics Public Company Ltd
+MaxLinear, Inc.
+Rorze Corp
+Kingclean Electric Co.Ltd
+INESA Intelligent Tech, Inc.
+Dexerials Corp
+Zeta Global Holdings Corp
+Lakala Payment Co. Ltd
+JAPAN MATERIAL Co. Ltd
+QAD Inc.
+Sharetronic Data Technology Co. Ltd
+Atoss Software AG
+Wuhan Raycus Fiber Laser Technologies Co.,Ltd.
+TKH Group N.V.
+LifeWorks, Inc.
+Founder Technology Group Corp
+TRS Information Technology Co. Ltd
+Amano Corp
+Oxford Instruments plc
+Cellebrite DI Ltd
+JinkoSolar Holding Co., Ltd.
+Kahoot! AS
+PC Connection, Inc.
+MiTAC Holdings Corp
+Blue Prism Group plc
+Pci Technology Group Co.,Ltd.
+Wonders Information Co. Ltd
+Sabre Corporation
+Jenoptik AG
+Jingjin Environmental Protection Co.,Ltd.
+Wondershare Technology Group Co. Ltd
+GDS Holdings Limited
+Netcompany Group A-S
+Verint Systems Inc.
+Zhuzhou Hongda Electronics Corp,Ltd.
+Veeco Instruments Inc.
+Chengdu CORPRO Technology Co. Ltd
+Computer Services, Inc.
+BTRS Holdings Inc.
+Fujian Torch Electron Technology Co. Ltd
+Shanghai Weaver Network Co. Ltd
+Appotronics Corp Ltd
+Barco NV
+Cohu, Inc.
+Compass, Inc.
+Wavestone SA
+Devoteam SA
+Fujian Boss Software Corp
+Jiangsu JieJie Microelectronics Co.,Ltd.
+Yusys Technologies Co. Ltd
+Fujimi, Inc.
+Canadian Solar Inc.
+Money Forward, Inc.
+TTM Technologies, Inc.
+Knowles Corporation
+Vaisala Oyj
+Wuxi NCE Power Co. Ltd
+Beijing Yuanliu Hongyuan Electronic Technology Co. Ltd
+Eastern Communications Co. Ltd
+Beijing Jingyuntong Technology Co. Ltd
+PROS Holdings, Inc.
+Jolywood
+Neusoft Corp
+CSG Systems International, Inc.
+4Sight Holdings Ltd
+HC SemiTek Corp
+Duck Creek Technologies, Inc.
+Sumo Logic, Inc.
+Société pour l'Informatique Industrielle SII SA
+NSD Co. Ltd
+Beijing eGOVA Co,. Ltd
+NetScout Systems, Inc.
+Vtech Holdings Ltd
+Genius Electronic Optical Co. Ltd
+VIZIO Holding Corp
+Société Industrielle et Financière de l'Artois SA
+Henan Yicheng New Energy Co. Ltd
+Huber+Suhner AG
+Enghouse Systems Limited
+ELAN Microelectronics Corp
+Sensirion Holding AG
+Shenzhen Kingdom Sci-Tech Co. Ltd
+Business-intelligence of Oriental Nations Corp Ltd
+Shanghai Sinyang Semiconductor Materials Co. Ltd
+Beijing Tongtech Co. Ltd
+Kinsus Interconnect Technology Corp
+Advanced Fiber Resources
+Dicker Data Limited
+JustSystems Corp
+TDG Holding Co. Ltd
+Cricut, Inc.
+Ningbo Yongxin Optics Co. Ltd
+Grinm Advanced Materials Co. Ltd
+Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira
+Ultra Clean Holdings, Inc.
+Harmonic Inc.
+Corsair Gaming, Inc.
+Guangdong Aofei Data Technology Co. Ltd
+Sineng Electric Co.,Ltd.
+Whirlpool SA
+Atea ASA
+Better Collective A/S
+M31 Technology Corp
+TKC Corp
+Bizlink Holding, Inc.
+NCAB Group AB
+Xiamen Leading Optics Co. Ltd
+X-FAB Silicon Foundries SE
+Shenzhen FRD Science & Technology Co. Ltd
+QuantumCTek Co. Ltd
+Shanghai Belling Co. Ltd
+Shenzhen InfoGem Technologies Co. Ltd
+Docebo Inc.
+Guangdong Create Century Intelligent Equipment Group Corp Ltd
+SuperMap Software Co. Ltd
+CTS Corporation
+Net One Systems Co. Ltd
+Jiangsu Cnano Technology Co. Ltd
+Semtech Corporation
+Lectra SA
+Hana Microelectronics Public Company Ltd
+Yantai Zhenghai Magnetic Material Co. Ltd
+Sansan, Inc.
+Plantronics, Inc.
+Kanematsu Corp
+Olympic Circuit Technology Co. Ltd
+Elmos Semiconductor SE
+Tuya, Inc.
+Paya Holdings Inc.
+Nagarro SE
+Ideagen plc
+EmbedWay Technologies
+Asseco Poland SA
+CIG ShangHai Co. Ltd
+Arctech Solar Holding Co. Ltd
+Hangzhou DPtech Technologies Co.,Ltd.
+Anritsu Corp
+XiaMen HongXin Electron-tech Group Co.,Ltd
+Zhejiang Lante Optics Co. Ltd
+Unilumin Group Co. Ltd
+Kanematsu Electronics Ltd
+E2open Parent Holdings, Inc.
+Shanghai AtHub Co. Ltd
+Matrix IT Ltd
+Richinfo Technology Co. Ltd
+Arcadyan Technology Corp
+Northern Data AG
+Sichuan Furong Technology Co. Ltd
+Luminar Technologies, Inc.
+CANCOM SE
+Maytronics Ltd
+Sierra Wireless, Inc.
+AKKA Technologies SE
+Suzhou Sushi Testing Group Co.,Ltd.
+Sanken Electric Co. Ltd
+Zuora, Inc.
+Guangzhou Sie Consulting Co. Ltd
+IReader Technology Co. Ltd
+Topcon Corp
+freee K.K.
+Datang Telecom Technology Co. Ltd
+Kaga Electronics Co.,Ltd.
+Chengdu Information Technology of The Chinese Academy of Sciences Co. Ltd
+Neurones
+S&T AG
+T&S Communications Co.,Ltd.
+Piesat Information Technology Co. Ltd
+Hunan Aihua Group Co. Ltd
+Ennoconn Corp
+Jushri Technologies, Inc.
+TOWA Corp
+ADVA Optical Networking SE
+Beijing Ctrowell Technology Corp Ltd
+HannStar Display Corp
+ENNOSTAR, Inc.
+Sercomm Corp
+PDF Solutions, Inc.
+Digital Garage, Inc.
+Topco Scientific Co.,Ltd.
+PAR Technology Corporation
+WANdisco plc
+AddNode Group AB
+Ardentec Corp
+Future Corp
+Espressif Systems
+Shenzhen Microgate Technology Co. Ltd
+Silicon Integrated Systems Corp
+DAEDUCK ELECTRONICS Co.,Ltd.
+HAND Enterprise Solutions Co. Ltd
+Transcend Information, Inc.
+Greatek Electronics, Inc.
+DeNA Co. Ltd
+DTS Corp
+Guangdong Ellington Electronics Technology Co. Ltd
+Sitronix Technology Corp
+DBAPPSecurity Co. Ltd
+Taiwan Union Technology Corp
+Xintec, Inc.
+Alphawave IP Group plc
+Fujian Apex Software Co. Ltd
+Sumavision Technologies Co.,Ltd.
+FIT Hon Teng Ltd
+TaskUs, Inc.
+AT & S Austria Technologie & Systemtechnik Aktiengesellschaft
+Tokyo Electron Device Ltd
+Opera Limited
+Toshiba Tec Corp
+Fujian Start Group Co.Ltd
+Jiangsu Lettall Electronic Co.,Ltd
+Jiangsu Etern Company Ltd
+Himax Technologies, Inc.
+Troy Information Technology Co. Ltd
+ITEQ Corp
+iRobot Corporation
+Shenzhen Jufei Optoelectronics Co. Ltd
+Momentive Global, Inc.
+Tong Hsing Electronic Industries Ltd
+Anhui Tatfook Technology Co.,Ltd
+Nsfocus Information Technology Co. Ltd
+Gudeng Precision Industrial Co. Ltd
+Sino Wealth Electronic Ltd
+Synacor, Inc.
+ACM Research, Inc.
+Asiainfo Technologies Ltd
+Client Service International, Inc.
+Chang Wah Technology Co. Ltd
+Nanjing Panda Electronics Company Ltd
+Sunrise Technology Co. Ltd
+Shenzhen Sunline Tech Co. Ltd
+Iress Limited
+Pushpay Holdings Limited
+Codan Limited
+Linewell Software Co. Ltd
+Primax Electronics Ltd
+Elecom Co. Ltd
+Formula Systems (1985) Ltd.
+Beijing Teamsun Technology Co.,Ltd.
+Infinera Corporation
+Global Brands Manufacture Ltd
+Secunet Security Networks AG
+ArcherMind Technology
+Supreme Electronics Co. Ltd
+Model N, Inc.
+ChipMOS TECHNOLOGIES INC.
+Orient Semiconductor Electronics Ltd
+TXC Corp
+Clenergy
+ESI Group
+Esker SA
+Systex Corp
+Fitipower Integrated Technology, Inc.
+Beijing Highlander Digital Technology Co. Ltd
+ChemoMetec A/S
+UCloud Technology Co. Ltd
+Chenbro Micom Co. Ltd
+Sigurd Microelectronics Corp
+Stratasys Ltd.
+HNA Technology Co. Ltd
+Life360, Inc.
+Raydium Semiconductor Corp
+A10 Networks, Inc.
+TTEC Holdings, Inc.
+discoverIE Group plc
+Mensch und Maschine Software SE
+Gosuncn Technology Group Co. Ltd
+Grid Dynamics Holdings, Inc.
+Tinexta S.p.A.
+HannStar Board Corp
+Benchmark Electronics, Inc.
+Micronics Japan Co. Ltd
+ScanSource, Inc.
+Ichor Holdings, Ltd.
+Focused Photonics
+Coretronic Corp
+Megaport Limited
+Infocom Corp
+Jilin Sino-Microelectronics Co. Ltd
+Beijing Certificate Authority Co. Ltd
+Beijing VRV Software Corp Ltd
+ADATA Technology Co. Ltd
+Qingdao Eastsoft Communication Technology Co.,Ltd
+Shenzhen Gongjin Electronics Co. Ltd
+O.Y. Nofar Energy Ltd
+Weimob, Inc.
+Global Blue Group Holding AG
+Sonaecom, SGPS, SA
+WalkMe Ltd
+SMART Global Holdings, Inc.
+Marketech International Corp
+Jiangsu DongHua Testing Technology Co. Ltd
+Audinate Group Limited
+Shenzhen Yitoa Intelligent Control Co.,Ltd.
+Skyworth Group Ltd
+SVG Group Co.,Ltd
+ASROCK InCorp
+Yalla Group Limited
+Wirtualna Polska Holding SA
+Shenzhen Fine Made Electronics Group Co. Ltd
+Insigma Technology Co. Ltd
+Wuhan P&S Information Technology Co. Ltd
+Spirent Communications plc
+Flexium Interconnect, Inc.
+Hongli Zhihui Group Co. Ltd
+Auras Technology Co. Ltd
+Zhejiang Firstar Panel Technology Co. Ltd
+Capitalonline Data Service Co. Ltd
+Enjoyor Co.,Ltd
+Chilisin Electronics Corp
+Netac Technology Co. Ltd
+WinWay Technology Co. Ltd
+SUNeVision Holdings Ltd
+Equiniti Group plc
+EGing Photovoltaic Technology Co.,Ltd.
+Taiwan Surface Mounting Technology Corp
+AAEON Technology, Inc.
+Xiamen Changelight Co. Ltd
+Vestel Beyaz Esya Sanayi ve Ticaret A.S.
+Digi International Inc.
+Bomin Electronics Co. Ltd
+Data#3 Limited
+Invisio AB
+Everbridge, Inc.
+GB Group plc
+Beijing Thunisoft Co. Ltd
+Shanghai Golden Bridge Info Tech Co. Ltd
+Ferrotec Holdings Corp
+Muehlbauer Holding AG
+TomTom N.V.
+DuoLun Technology Corp Ltd
+Hanwei Electronics Group Corp
+NeoPhotonics Corporation
+GFT Technologies SE
+Shenzhen Absen Optoelectronic Co.,Ltd.
+WuHan Yangtze Communication Industry Group Co.,Ltd
+Jiangsu Zongyi Co.,LTD
+TKD Science and Technology Co.,Ltd.
+Toyou Feiji Electronics Co. Ltd
+Systena Corp
+Hengxin Shambala Culture Co.,Ltd.
+Tri Chemical Laboratories, Inc.
+Clevo Co.
+Sunyard Technology Co.,Ltd
+Chipsea Technologies
+Shanghai Bright Power Semiconductor Co. Ltd
+GuoChuang Software Co.,Ltd.
+Innodisk Corp
+Elite Semiconductor Microelectronics Tech, Inc.
+JVCKENWOOD Corp
+Olo, Inc.
+Guodian Nanjing Automation Co. Ltd
+Jiangyin Jianghua Microelectronics Materials Co. Ltd
+Union Optech Co.,Ltd.
+Wuxi Chipown Micro-electronics Ltd
+Qingdao Topscomm Communication, Inc.
+Henan Thinker Automatic Equipment Co.,Ltd.
+transcosmos, Inc.
+Yeahka Ltd
+Beijing Wanji Technology Co. Ltd
+Fujian Foxit Software Development Joint Stock Co.,Ltd
