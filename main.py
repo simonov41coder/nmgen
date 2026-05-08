@@ -22,10 +22,10 @@ CONFIG_PATH = "name_config.json"
 
 HIDDEN_SIZE  = 256
 NUM_LAYERS   = 2
-EPOCHS       = 100
+EPOCHS       = 1000
 LR           = 0.003
 BATCH_SIZE   = 64
-SEQ_LEN      = 20   # max name length during training
+SEQ_LEN      = 30   # max name length during training
 TEMPERATURE  = 0.8  # higher = more creative, lower = more conservative
 
 # ─── Model ─────────────────────────────────────────────────────────────────────
